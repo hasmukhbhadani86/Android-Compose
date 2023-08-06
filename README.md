@@ -9,3 +9,5 @@
 - MVVM, Hilt, Compose-Navigation, Retrofit, Kotlin-Coroutine-Flow
   - https://androidexample365.com/clean-architecture-with-mvvm-and-jetpack-compose/
   - https://github.com/catalinghita8/android-compose-mvvm-foodies
+- MVVM, Room, Hilt, Retrofit, Kotlin-Coroutine-Flow
+  - https://androidexample365.com/newsbuzz-demonstrates-modern-android-development-with-hilt-coroutines-jetpack-room-viewmodel-based-on-mvvm-architecture/
